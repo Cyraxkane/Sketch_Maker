@@ -9,7 +9,7 @@
 # Developer:
 #   - Name: Cyrax Kane
 #   - Contact: cynetixsolution@gmail.com
-#   - GitHub: https://github.com/your_github_profile
+#   - GitHub: https://github.com/Cyraxkane
 #
 # To run this application, you need the following Python libraries:
 # - opencv-python: For image processing.
